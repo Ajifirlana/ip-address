@@ -1,0 +1,45 @@
+[03-Jul-2021 11:27:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 1
+[03-Jul-2021 11:27:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 1
+[03-Jul-2021 11:29:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 1
+[03-Jul-2021 11:31:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 71
+[03-Jul-2021 11:32:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 68
+[03-Jul-2021 11:32:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 68
+[03-Jul-2021 11:33:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 74
+[03-Jul-2021 11:35:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 73
+[03-Jul-2021 11:36:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 73
+[03-Jul-2021 11:39:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_client_ip() in /home/desabrin/public_html/myip/index.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 73
+[03-Jul-2021 12:08:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/desabrin/public_html/myip/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/desabrin/public_html/myip/index.php on line 37
+[03-Jul-2021 12:41:29 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/desabrin/public_html/myip/index.php on line 59
